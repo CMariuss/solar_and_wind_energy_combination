@@ -1,1 +1,1 @@
-# solar_and_wind_energy_combination
+# Solar and wind energy combination
