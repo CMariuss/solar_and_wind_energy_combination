@@ -1,6 +1,6 @@
 # Solar and wind energy combination project
 
-#### This is my bachelor's thesis project and it has two main components:
+### This is my bachelor's thesis project and it has two main components:
 
 1. A conceptual model, shaped like a pole, which was designed to collect renewable energy from two sourses (solar panel and wind turbine) - figure x
 2. A software for monitoring the system status - figure y
@@ -11,7 +11,7 @@
   <img src="pictures/full_assembly/full_assembly.jpg" alt="Full model assembly" width="500"/>
 </p>
 
-<p align = 'center'>
+<p>
   <img src="pictures/in_process/progress_01.jpg" alt="In process" width="300"/>
   <img src="pictures/in_process/progress_02.jpg" alt="In process" width="300"/>
   <img src="pictures/in_process/progress_03.jpg" alt="In process" width="300"/>
