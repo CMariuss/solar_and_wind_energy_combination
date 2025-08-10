@@ -7,6 +7,13 @@
 
 <p>The goal of this project was to design a smart conceptual system that combine two diferent renewable energy sources, which could be installed anywhere (for example in park).</p>
 
-<p align="center">
-  <img src="pictures/full_assembly/full_assembly.jpg" alt="Light theme" width="200"/>
+<p>
+  <img src="pictures/full_assembly/full_assembly.jpg" alt="Full model assembly" width="500"/>
+</p>
+
+<p align = 'center'>
+  <img src="pictures/in_process/progress_01.jpg" alt="In process" width="300"/>
+  <img src="pictures/in_process/progress_02.jpg" alt="In process" width="300"/>
+  <img src="pictures/in_process/progress_03.jpg" alt="In process" width="300"/>
+  <img src="pictures/in_process/progress_04.jpg" alt="In process" width="300"/>
 </p>
